@@ -10,10 +10,7 @@
 				"/t:build",
 				"/consoleloggerparameters:NoSummary"
 			],
-			"group": {
-				"kind": "build",
-				"isDefault": true
-			},
+			"group": "build",
 			"presentation": {
 				"reveal": "silent"
 			},

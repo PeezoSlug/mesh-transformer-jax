@@ -1,4 +1,4 @@
-from pydantic import BaseModel
+from payloads import BaseModel
 from typing import Dict, Optional, Any, List
 
 

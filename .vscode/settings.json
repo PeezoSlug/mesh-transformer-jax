@@ -2,5 +2,6 @@
     "azure-iot-edge.defaultPlatform": {
         "platform": "windows-amd64",
         "alias": null
-    }
+    },
+    "python.pythonPath": "C:\\Users\\peezo\\AppData\\Local\\Microsoft\\WindowsApps\\python3.9.exe"
 }

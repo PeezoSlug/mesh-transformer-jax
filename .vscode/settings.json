@@ -3,5 +3,8 @@
         "platform": "windows-amd64",
         "alias": null
     },
-    "python.pythonPath": "C:\\Users\\peezo\\AppData\\Local\\Microsoft\\WindowsApps\\python3.9.exe"
+    "python.pythonPath": "C:\\Users\\peezo\\AppData\\Local\\Microsoft\\WindowsApps\\python3.9.exe",
+    "yaml.schemas": {
+        "https://json.schemastore.org/github-workflow.json": "file:///c%3A/Users/peezo/source/tensorflow/tensorflow/compiler/mesh-transformer-jax/.github/workflows/python-package-conda.yml"
+    }
 }

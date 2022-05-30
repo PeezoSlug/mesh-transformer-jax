@@ -305,3 +305,5 @@ if __name__ == "__main__":
     print(f"Creating TFRecords from files: {files}")
 
     results = create_tfrecords(files, args)
+
+
